@@ -1,0 +1,180 @@
+{
+  "superHeros":[
+    {
+      "name":"Iron Man",
+      "image":"https://elcomercio.pe/resizer/4jLK49JABHAU0NZArAz4D5ODTFA=/620x0/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/ACQ6OOT45ZBFPMN77QDRIOFGJM.jpg",
+      "superPower":"Metal Suit",
+      "id":1
+    },
+    {
+      "name":"Captain America",
+      "image":"https://cdn.atomix.vg/wp-content/uploads/2019/04/Poster_AvengersEndGame02.jpg",
+      "superPower":"Super Soldier",
+      "id":2
+    },
+    {
+      "name":"Thor",
+      "image":"https://sm.ign.com/ign_latam/gallery/a/avengers-e/avengers-endgame-character-posters-marvel-thailand_kmaz.jpg",
+      "superPower":"God of Thunder",
+      "id":3
+
+    },
+    {
+      "name":"Hawkeye",
+      "image":"https://cdn.atomix.vg/wp-content/uploads/2019/04/Poster_AvengersEndGame05.jpg",
+      "superPower":"Perfect Aim",
+      "id":4
+    },
+    {
+      "name":"Black Widow",
+      "image":"https://cdn.atomix.vg/wp-content/uploads/2019/04/Poster_AvengersEndGame04.jpg",
+      "superPower":"Spy",      
+      "id":5
+    },
+    {
+      "name":"Hulk",
+      "image":" https://cinemedios.com/wp-content/uploads/2019/04/bruce-banner-hulk-poster-avengers-endgame.jpeg",
+      "superPower":"Gamma",      
+      "id":6
+    },
+    {
+      "name":"War Machine",
+      "image":"https://cinemedios.com/wp-content/uploads/2019/04/war-machine-poster-avengers-endgame.jpeg",
+      "superPower":"Metal Suit",      
+      "id":7
+    },
+    {
+      "name":"Winter Soldier",
+      "image":" https://www.diariovivo.com/wp-content/uploads/2021/03/2.png",
+      "superPower":"Bibranium Arm",      
+      "id":8
+    },
+    {
+      "name":"Falcon",
+      "image":"https://i.pinimg.com/474x/eb/c6/09/ebc609aec7a224c65892ef8eda7026ea.jpg",
+      "superPower":"Carbon Wins",      
+      "id":9
+    },
+    {
+      "name":"Spider Man",
+      "image":"https://cinematrix.es/wp-content/uploads/2018/04/avengers-infinity-war-poster-spider-man-tom-holland.jpg",
+      "superPower":"Spider Powers",      
+      "id":10
+    },
+    {
+      "name":"Ant-Man",
+      "image":"https://cdn.atomix.vg/wp-content/uploads/2019/04/Poster_AvengersEndGame08.jpg",
+      "superPower":"Ant Powers",      
+      "id":11
+    },
+    {
+      "name":"Wasp",
+      "image":"https://static.wikia.nocookie.net/movie-heroes-and-villains/images/e/e9/Textless_AMATW_Character_Posters_02.jpg/revision/latest?cb=20190817133458",
+      "superPower":"Bee Powers",      
+      "id":12
+    },
+    {
+      "name":"Iron Rescue",
+      "image":"https://pbs.twimg.com/media/Eazc3JvXYAEzFSe.jpg",
+      "superPower":"Metal Suit",      
+      "id":13
+    },
+    {
+      "name":"Scarlet Witch",
+      "image":"https://images2.imgbox.com/91/68/aPqALQ3U_o.jpg",
+      "superPower":"",      
+      "id":14
+    },
+    {
+      "name":"Vision",
+      "image":"https://i.pinimg.com/originals/bb/9c/f3/bb9cf3f0aa0594d53af847b766eb0b84.jpg",
+      "superPower":"Mind Gem",      
+      "id":15
+    },
+    {
+      "name":"Sharon Carter",
+      "image":"https://static.wikia.nocookie.net/marveldatabase/images/d/dd/The_Falcon_and_the_Winter_Soldier_poster_005_textless.jpg/revision/latest?cb=20210309163920",
+      "superPower":"Spy",      
+      "id":16
+    },
+    {
+      "name":"Black Panther",
+      "image":"https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/9/99/Black_Panther_AIW_Profile.jpg/revision/latest?cb=20180416145745",
+      "superPower":"Black Panther Powers",      
+      "id":17
+    },
+    {
+      "name":"Shuri",
+      "image":"https://cinematrix.es/wp-content/uploads/2018/04/avengers-infinity-war-poster-shuri-letitia-wright.jpg",
+      "superPower":"Artist Marcia",      
+      "id":18
+    },
+    {
+      "name":"Okoye",
+      "image":"https://cdn.atomix.vg/wp-content/uploads/2019/04/Poster_AvengersEndGame12.jpg",
+      "superPower":"Dora Milaje",      
+      "id":19
+    },
+    {
+      "name":"Star Lord",
+      "image":"https://static.wikia.nocookie.net/avengers-infinity-war-parte-1-y-2/images/f/f8/StarLordPosterIW.jpg/revision/latest?cb=20180405011319&path-prefix=es",
+      "superPower":"Space Traveler",      
+      "id":20
+    },
+    {
+      "name":"Gamora",
+      "image":"https://theworldwentaway.files.wordpress.com/2018/04/avengers-infinity-war-4.jpeg?w=810",
+      "superPower":"Elite Fighter",      
+      "id":21
+    },
+    {
+      "name":"Drax",
+      "image":"https://pbs.twimg.com/media/Da8qpMyVAAAKO3v.jpg",
+      "superPower":"blasts of energy",      
+      "id":22
+    },
+    {
+      "name":"Mantis",
+      "image":" https://cinematrix.es/wp-content/uploads/2018/04/avengers-infinity-war-poster-mantis-pom-klementieff.jpg",
+      "superPower":"Telepathy",      
+      "id":23
+    },
+    {
+      "name":"Nebula",
+      "image":"https://cdn.atomix.vg/wp-content/uploads/2019/04/Poster_AvengersEndGame10.jpg",
+      "superPower":"Mercenary and Pirate",      
+      "id":24
+    },
+    {
+      "name":"Doctor Strange",
+      "image":"https://pbs.twimg.com/media/DZ9EOmVW0AAjJdo.jpg",
+      "superPower":"Time Control",      
+      "id":25
+    },
+    {
+      "name":"Wong",
+      "image":"https://cdn.atomix.vg/wp-content/uploads/2018/04/avengers-infinity-war-wong.jpg",
+      "superPower":"Magic",      
+      "id":26
+    },
+    {
+      "name":"Valquiria",
+      "image":"https://los40es00.epimg.net/los40/imagenes/2017/11/03/cinetv/1509706218_823635_1509706326_noticia_normal.jpg",
+      "superPower":"Asgardian",      
+      "id":27
+    },
+    {
+      "name":"Captain Marvel",
+      "image":"https://cdn.atomix.vg/wp-content/uploads/2019/04/Poster_AvengersEndGame07.jpg",
+      "superPower":"Cosmic Power",      
+      "id":28
+    },
+    {
+      "name":"Quick Silver",
+      "image":"https://media1.popsugar-assets.com/files/thumbor/6zy0xqUpEaRaYYZgCc6s9c-WMsE/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2015/09/09/040/n/1922283/f536228aad441224_Avengers-Age-of-Ultron-Quicksilver/i/Quicksilver-From-Avengers-Age-Ultron.jpg",
+      "superPower":"Super Speed",      
+      "id":29
+    }
+  ]
+}
+
